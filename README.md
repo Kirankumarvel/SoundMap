@@ -1,3 +1,5 @@
+Here is the reformatted `README.md`:
+
 # 🎧 SoundMap — Visualize Music with AI
 
 SoundMap is a fun and powerful tool that uses machine learning to visualize how songs relate to each other based on musical features like danceability, tempo, energy, and more.
@@ -72,24 +74,22 @@ soundmap/
 └── requirements.txt      # Python dependencies
 ```
 
-##📊 Use Cases
--Music mood exploration
--Recommender systems
--Audio feature clustering
--Educational visualizations for ML & data science
+## 📊 Use Cases
+- Music mood exploration
+- Recommender systems
+- Audio feature clustering
+- Educational visualizations for ML & data science
 
-💡 Ideas to Extend
--Plug in Spotify API to fetch real song features
--Add interactive Plotly visualizations
--Cluster labeling and analysis (e.g., genres, tempo zones)
+## 💡 Ideas to Extend
+- Plug in Spotify API to fetch real song features
+- Add interactive Plotly visualizations
+- Cluster labeling and analysis (e.g., genres, tempo zones)
+
+
+Inspired by the magic of Spotify, UMAP, and t-SNE
 
 ## ❤️ Credits
 Built with 🔥 by [Kiran Kumar V]
 
-
-
-##📜 License
+## 📜 License
 MIT License. Free for personal and commercial use.
-
-
-Inspired by the magic of Spotify, UMAP, and t-SNE
