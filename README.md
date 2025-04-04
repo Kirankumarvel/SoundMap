@@ -26,7 +26,7 @@ By applying dimensionality reduction techniques like UMAP, t-SNE, and PCA, Sound
 
 ## 🧑‍💻 Installation
 ```bash
-git clone https://github.com/yourusername/soundmap.git
+git clone https://github.com/kirankumarvel/soundmap.git
 cd soundmap
 pip install -r requirements.txt
 ```
@@ -89,7 +89,7 @@ soundmap/
 Inspired by the magic of Spotify, UMAP, and t-SNE
 
 ## ❤️ Credits
-Built with 🔥 by [Kiran Kumar V]
+Built with 🔥 by [[Kiran Kumar V](https://github.com/kirankumarvel/)]
 
 ## 📜 License
 MIT License. Free for personal and commercial use.
